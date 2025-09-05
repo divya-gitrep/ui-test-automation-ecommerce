@@ -1,2 +1,7 @@
 # ui-test-automation-ecommerce
-End-to-end UI test automation framework for an ecommerce site using Selenium
+
+**##Overview**
+This project demonstrates automated UI testing of an e-commerce website using **Selenium + TestNG (Java)**.  
+It covers core flows: login, product search, add to cart, checkout.  
+
+
